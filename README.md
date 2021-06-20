@@ -2,6 +2,6 @@
 
 Course Files for Fullstack Bootcamp Course on Genskill
 
-##Languages used
+## Languages used
 *Python
 *SQL
